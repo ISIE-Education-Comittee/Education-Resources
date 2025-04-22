@@ -24,6 +24,7 @@ All resources must be uploaded with a valid **Creative Commons (CC) licence**. C
 - CC BY  
 - CC BY-SA  
 - CC BY-NC  
+
 - CC BY-NC-SA
 
 Any material submitted without a licence or proper authorisation will be removed. Contributors may withdraw their content at any time, though archived or mirrored content may remain accessible.
@@ -87,4 +88,4 @@ For questions, clarifications, or support regarding repository use or contributi
 
 ## Citation
 
-This README was generated with the assistance of OpenAI's ChatGPT (2025). Use of generative AI tools for documentation purposes should be acknowledged in compliance with academic transparency standards.
+This README was generated with the assistance of OpenAI's ChatGPT (2025). 
